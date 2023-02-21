@@ -4,3 +4,6 @@ income_app_streamlit
 
 Mô hình được đào tạo bằng dữ liệu trên kaggle: 
 # https://www.kaggle.com/datasets/uciml/adult-census-income
+
+
+Files code for data scientis will be updated soon.
