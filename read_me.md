@@ -7,3 +7,5 @@ Mô hình được đào tạo bằng dữ liệu trên kaggle:
 
 
 Files code for data scientis will be updated soon.
+
+Ok due!
