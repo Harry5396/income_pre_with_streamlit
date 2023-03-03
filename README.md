@@ -9,7 +9,7 @@ income_app_streamlit
 4. Cài đặt các thư viện cần thiết
 5. chạy cmd: streamlit run Income_pre.py
 
-
+Kết quả sẽ được như hình sau:
 ![Screenshot 2023-03-01 at 18 06 36](https://user-images.githubusercontent.com/75346165/222122230-13b0889c-62d2-4803-969e-41a0f460e27f.png)
 
 
